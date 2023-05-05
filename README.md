@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jerezjustin
-- 👀 I’m interested in Software Development in general, specially PHP & JavaScript technologies.
+- 👋 Hi, I’m Justin Jerez. I'm a Full-Stack Software Developer from The Dominican Republic 🏝️. I'ven coding for 3+ years, focusing on PHP and Javascript based technologies.
+- 👀 I’m interested in Software Development in general, specially PHP & JavaScript based technologies in both ends, front-end and back-end
 - 🌱 I’m currently learning VueJs & Typescript.
 - 💞️ I’m looking to collaborate on PHP \ Laravel projects.
 - 📫 You can reach at justinjerez@hotmail.com
