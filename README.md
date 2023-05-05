@@ -3,3 +3,9 @@
 - 🌱 I’m currently learning VueJs & Typescript.
 - 💞️ I’m looking to collaborate on PHP \ Laravel projects.
 - 📫 You can reach at justinjerez@hotmail.com
+- 📃 List of technologies I've used:
+  - ✅ Javascript ES6, ReactJs, NextJs & VueJs.
+  - ✅ RESTful, GraphQL.
+  - ✅ PHP & Laravel.
+  - ✅ CSS, TailwindCss & Sass.
+  - ✅ C#, .NET.
