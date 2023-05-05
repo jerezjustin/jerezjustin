@@ -6,6 +6,6 @@
 - 📃 List of technologies I've used:
   - ✅ Javascript ES6, ReactJs, NextJs & VueJs.
   - ✅ RESTful, GraphQL.
-  - ✅ PHP & Laravel.
+  - ✅ PHP, Laravel, Livewire & FilamentPHP.
   - ✅ CSS, TailwindCss & Sass.
   - ✅ C#, .NET.
