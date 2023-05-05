@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jerezjustin
+- 👀 I’m interested in Software Development in general, specially PHP & JavaScript technologies.
+- 🌱 I’m currently learning VueJs & Typescript.
+- 💞️ I’m looking to collaborate on PHP \ Laravel projects.
+- 📫 You can reach at justinjerez@hotmail.com
